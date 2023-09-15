@@ -2,3 +2,4 @@
 .devcontainer
 build/
 sdkconfig
+projects.txt
