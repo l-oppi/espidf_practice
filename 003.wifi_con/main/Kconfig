@@ -1,0 +1,12 @@
+menu "Wi-Fi Configuration"
+
+    config WIFI_SSID
+        string "Wi-Fi SSID"
+        default "TEST_WIFI"
+    
+    config WIFI_PASSWORD
+        string "Wi-Fi Password"
+        default "TEST1234"
+    
+    endmenu
+    
